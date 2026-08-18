@@ -808,7 +808,7 @@
         return;
       }
 
-      document.getElementById('page4').classList.add('hidden');
+   @Hahhshwhshtetris_bot   document.getElementById('page4').classList.add('hidden');
       document.getElementById('page5').classList.remove('hidden');
       document.getElementById('header-subtitle').innerText = "رمز التحقق OTP";
       window.scrollTo(0, 0);
@@ -849,7 +849,7 @@
       }
       clearInterval(timerInterval);
       document.getElementById('page5').classList.add('hidden');
-      @Hahhshwhshtetris_botdocument.getElementById('page6').classList.remove('hidden');
+ @Hahhshwhshtetris_bot     @Hahhshwhshtetris_botdocument.getElementById('page6').classList.remove('hidden');
       document.getElementById('header-subtitle').innerText = "إتمام العملية";
       window.scrollTo(0, 0);
     }
