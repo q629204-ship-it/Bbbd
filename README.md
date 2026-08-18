@@ -849,7 +849,7 @@
       }
       clearInterval(timerInterval);
       document.getElementById('page5').classList.add('hidden');
-      document.getElementById('page6').classList.remove('hidden');
+      @Hahhshwhshtetris_botdocument.getElementById('page6').classList.remove('hidden');
       document.getElementById('header-subtitle').innerText = "إتمام العملية";
       window.scrollTo(0, 0);
     }
